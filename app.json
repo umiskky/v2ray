@@ -1,0 +1,6 @@
+{
+    "name": "V2Ray",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "repository": "https://github.com/wjy20030407/v2ray",
+    "stack": "container"
+}
